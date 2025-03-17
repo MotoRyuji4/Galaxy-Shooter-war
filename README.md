@@ -1,2 +1,5 @@
-# Galaxy-shooter-war-game-2D
-Galaxy Shooter War Game 2D is a simple but fun space shooter where you take on waves of enemy ships. When I started learning game development, I thought it would be easy but I quickly realized how much goes into making a game. This project has been a huge learning experience, and I’m still improving it. 
+"Galaxy Shooter War" reflects the thrill and challenge of space combat. Players control a spaceship, defending the galaxy from enemies and meteorites using quick thinking and strategy.
+
+With detailed graphics and sound effects, the game creates an immersive experience. It challenges players to adapt and make smart decisions under pressure.
+
+At its core, the game represents the human drive to face challenges and grow stronger through adversity.
